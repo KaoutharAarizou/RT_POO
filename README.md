@@ -1,4 +1,4 @@
-# RT_POO
+# M1_POO
 Repository dédié à la promotion 2018/2019 de Master 1 en éléctronique spécialités:
       
       • Réseaux et Télécommunication
