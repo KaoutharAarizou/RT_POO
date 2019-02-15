@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1550241379 source:c:\users\dell\desktop\kaouthar\vacations\2018-2019 semestre 1\codes\fiche 3\exercice8\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+
